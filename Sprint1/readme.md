@@ -1,4 +1,4 @@
-# Getting comfortable using Python to conduct a non-trivial data analysis, visualize results, and review important elements of Python
+# Using Python to conduct a non-trivial data analysis
 
 **Baccarat**
     *Simulating Baccarat games to estimate banker and player winning probability and to calculate house edge
