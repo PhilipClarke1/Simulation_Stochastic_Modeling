@@ -1,1 +1,1 @@
-# Applying discrete distributions to simulation models 
+# Application of discrete distributions to simulation models 
