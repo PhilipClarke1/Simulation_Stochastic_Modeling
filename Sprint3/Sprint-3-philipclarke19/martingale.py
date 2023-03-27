@@ -1,6 +1,4 @@
 import random
-import matplotlib.pyplot as plt
-
 
 def simulate_bankroll(starting_bankroll, num_spins):
   bankroll = starting_bankroll
